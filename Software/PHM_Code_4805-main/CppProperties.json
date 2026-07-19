@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "name": "Visual Micro",
+      "intelliSenseMode": "windows-msvc-x86",
+      "includePath": [
+        "${projectRoot}..\\PHM_Code_4805",
+        "F:\\CodingSoftware\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src",
+        "F:\\CodingSoftware\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility",
+        "F:\\CodingSoftware\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src",
+        "F:\\CodingSoftware\\Arduino\\libraries\\SD\\src",
+        "F:\\CodingSoftware\\Arduino\\libraries\\SD\\src\\utility",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\OneWire",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\DallasTemperature",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\NonBlockingDallas",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_MPU6050",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_INA219",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_SHT4x_Library",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\DS3231",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\NTC_Thermistor\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\FreeRTOS\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+        "${projectRoot}..\\..\\..\\..\\..\\Documents\\Arduino\\libraries\\ADS1115-Driver\\src",
+        "F:\\CodingSoftware\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+        "F:\\CodingSoftware\\Arduino\\hardware\\arduino\\avr\\variants\\mega",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\\\lib\\gcc\\avr\\7.3.0\\include",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\avr\\include",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\\\lib\\gcc\\avr\\7.3.0\\include",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\avr\\include-fixed",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\avr\\include\\avr",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+        "F:\\CodingSoftware\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.3\\include"
+      ],
+      "defines": [
+        "__AVR_atmega2560__",
+        "__AVR_ATmega2560__",
+        "F_CPU=16000000L",
+        "ARDUINO=108015",
+        "ARDUINO_AVR_MEGA2560",
+        "ARDUINO_ARCH_AVR",
+        "__cplusplus=201103L",
+        "_VMICRO_INTELLISENSE"
+      ]
+    }
+  ]
+}
