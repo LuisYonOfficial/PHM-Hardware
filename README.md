@@ -9,8 +9,7 @@ Initial breadboarding to validate code and sensor selection completed:
 
 Full PCB Design and initial test chamber completed. Limited test time due to limitation on on-site testing on campus grounds. Would be worth going back to assess the longevity of the unit and full validation.
 
-<img width="715" height="444" alt="image" src="https://github.com/user-attachments/assets/5d1579c3-5664-49f1-9c24-b535d46aebba" />
-
+<img width="916" height="541" alt="image" src="https://github.com/user-attachments/assets/d9e24849-f491-43fd-9a1b-1882a4bbb1c5" />
 
 Some updates that could be made for the future: 
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
