@@ -9,11 +9,13 @@ Initial breadboarding to validate code and sensor selection completed:
 
 Full PCB Design and initial test chamber completed. Limited test time due to limitation on on-site testing on campus grounds. Would be worth going back to assess the longevity of the unit and full validation.
 
-<img width="916" height="541" alt="image" src="https://github.com/user-attachments/assets/d9e24849-f491-43fd-9a1b-1882a4bbb1c5" /> 
+<img width="1862" height="1126" alt="image" src="https://github.com/user-attachments/assets/ae10270e-1910-4e27-945c-3b6ac391a87b" />
+
+<img width="1512" height="2016" alt="image" src="https://github.com/user-attachments/assets/8172d905-78a9-4429-8ab3-837187e9d89b" />
 
 Some updates that could be made for the future: 
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
 - Update the load type to be motor-to-motor with an automated current step up and down for an accurate profile.
 - Develop a closer to real life curve for the Coffin=Manson Equation Prediction.
 
-<img width="559" height="545" alt="image" src="https://github.com/user-attachments/assets/4e246b85-4aff-4cc3-86d1-9bedaf2da64a" />
+<img width="1512" height="2016" alt="image" src="https://github.com/user-attachments/assets/0be0f956-cdce-4653-be31-7b9ceb061ce4" />
