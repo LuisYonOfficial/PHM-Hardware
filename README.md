@@ -9,6 +9,9 @@ Initial breadboarding to validate code and sensor selection completed:
 
 Full PCB Design and initial test chamber completed. Limited test time due to limitation on on-site testing on campus grounds. Would be worth going back to assess the longevity of the unit and full validation.
 
+<img width="715" height="444" alt="image" src="https://github.com/user-attachments/assets/5d1579c3-5664-49f1-9c24-b535d46aebba" />
+
+
 Some updates that could be made for the future: 
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
 - Update the load type to be motor-to-motor with an automated current step up and down for an accurate profile.
