@@ -2,7 +2,6 @@ Thie file contains the PCB design repo for my VT Senior Design Project: "Prognos
 
 <img width="1496" height="1438" alt="image" src="https://github.com/user-attachments/assets/5ede6941-0511-4455-8f50-de8ca9d6a03c" />
 
-
 Some more insight into the Coffin-Manson implementation can be found here: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9846435
 
 Points Of Measurement for Coffin-Manson Degradation Estimation: 
@@ -12,7 +11,6 @@ Points Of Measurement for Coffin-Manson Degradation Estimation:
 
 <img width="370" height="200" alt="image" src="https://github.com/user-attachments/assets/2ce38586-c7f0-40c3-9641-f8223bb859bd" />
 
-
 Additionall Modifiers for Predictive Fine-Tuning: 
 - Humidity
 - FET Current (Drain Current)
@@ -21,7 +19,6 @@ Additionall Modifiers for Predictive Fine-Tuning:
 
 Schematic Layout: 
 <img width="1531" height="1038" alt="image" src="https://github.com/user-attachments/assets/b39ca7cf-3154-44f8-8181-349d9905936b" />
-
 
 System Logic Diagram: 
 <img width="1147" height="549" alt="image" src="https://github.com/user-attachments/assets/ad53c0ef-2959-47b5-b17a-16ef99efc587" />
@@ -39,4 +36,5 @@ Some updates that could be made for the future:
 - ESC inverter bridge was used as the Switching Device Under Load (DC-AC) in the interest of cost and time (https://www.amazon.com/dp/B00XKX5TBE?lv=shuf&channelId=500&plpRedirect=mhFallback.) Could move towards a VESC or a higher power switching device.
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
 - Update the load type to be motor-to-motor with an automated current step up and down for an accurate profile.
-- Develop a closer to real life curve for the Coffin=Manson Equation Prediction.
+- Develop a closer to real life curve for the Coffin-Manson Equation Prediction with a longer 24-hour run time.
+- Update repo with eq. instituting humidity and additional modfiiers. 
