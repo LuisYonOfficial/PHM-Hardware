@@ -7,15 +7,17 @@ Team code can be found here: https://github.com/corwinw18/PHM_Code_4805
 Initial breadboarding to validate code and sensor selection completed: 
 <img width="900" height="527" alt="image" src="https://github.com/user-attachments/assets/4ebdbe6e-c93b-46b8-a2cd-c23a82f69655" />
 
+<img width="1512" height="2016" alt="image" src="https://github.com/user-attachments/assets/0be0f956-cdce-4653-be31-7b9ceb061ce4" />
+
 Full PCB Design and initial test chamber completed. Limited test time due to limitation on on-site testing on campus grounds. Would be worth going back to assess the longevity of the unit and full validation.
 
-<img width="1862" height="1126" alt="image" src="https://github.com/user-attachments/assets/ae10270e-1910-4e27-945c-3b6ac391a87b" />
+<img width="1496" height="1438" alt="image" src="https://github.com/user-attachments/assets/5ede6941-0511-4455-8f50-de8ca9d6a03c" />
 
-<img width="1512" height="2016" alt="image" src="https://github.com/user-attachments/assets/8172d905-78a9-4429-8ab3-837187e9d89b" />
+<img width="1512" height="1138" alt="image" src="https://github.com/user-attachments/assets/707c16ac-964f-4718-ade8-72353c775ae7" />
+
+<img width="1649" height="963" alt="image" src="https://github.com/user-attachments/assets/5d89ea2a-71a1-4ed1-b716-e1602b6de3e8" />
 
 Some updates that could be made for the future: 
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
 - Update the load type to be motor-to-motor with an automated current step up and down for an accurate profile.
 - Develop a closer to real life curve for the Coffin=Manson Equation Prediction.
-
-<img width="1512" height="2016" alt="image" src="https://github.com/user-attachments/assets/0be0f956-cdce-4653-be31-7b9ceb061ce4" />
