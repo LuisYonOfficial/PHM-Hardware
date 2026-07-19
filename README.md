@@ -4,6 +4,11 @@ ESCs were used in reference as to the project for the sake of staying within bud
 
 Team code can be found here: https://github.com/corwinw18/PHM_Code_4805
 
+Initial breadboarding to validate code and sensor selection completed: 
+<img width="900" height="527" alt="image" src="https://github.com/user-attachments/assets/4ebdbe6e-c93b-46b8-a2cd-c23a82f69655" />
+
+Full PCB Design and initial test chamber completed. Limited test time due to limitation on on-site testing on campus grounds. Would be worth going back to assess the longevity of the unit and full validation.
+
 Some updates that could be made for the future: 
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
 - Update the load type to be motor-to-motor with an automated current step up and down for an accurate profile.
