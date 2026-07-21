@@ -21,9 +21,6 @@ Additionall Modifiers for Predictive Fine-Tuning:
 - Junction Voltage (Gate Voltage in our approach)
 - Vibration (Through IMU measurement)
 
-Schematic Layout: 
-<img width="1531" height="1038" alt="image" src="https://github.com/user-attachments/assets/b39ca7cf-3154-44f8-8181-349d9905936b" />
-
 System Logic Diagram: 
 <img width="1147" height="549" alt="image" src="https://github.com/user-attachments/assets/ad53c0ef-2959-47b5-b17a-16ef99efc587" />
 
@@ -37,9 +34,11 @@ Full PCB Design and initial test chamber completed. Limited test time due to lim
 <img width="1649" height="963" alt="image" src="https://github.com/user-attachments/assets/5d89ea2a-71a1-4ed1-b716-e1602b6de3e8" />
 
 Some updates that could be made for the future: 
+- Add Fusing to Power Supply w/ either aftermarket AC Adapter inline or in phase converter
 - ESC inverter bridge was used as the Switching Device Under Load (DC-AC) in the interest of cost and time (https://www.amazon.com/dp/B00XKX5TBE?lv=shuf&channelId=500&plpRedirect=mhFallback.) Could move towards a VESC or a higher power switching device.
 - Update PCB to have flush connection to sensor breakout boards or integrate into board design rather than conneciton through header pins
 - Have an updated test chamber rig setup with new artifical humidity chamber settings
 - Update the load type to be motor-to-motor with an automated current step up and down for an accurate profile.
 - Develop a closer to real life curve for the Coffin-Manson Equation Prediction with a longer 24-hour run time.
-- Update repo with eq. instituting humidity and additional modfiiers. 
+- Update repo with eq. instituting humidity and additional modfiiers.
+- Integrate alarm into pcb
